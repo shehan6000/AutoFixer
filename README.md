@@ -1,6 +1,3 @@
-Here’s a sample **README.md** file for your AI-Powered Code Auto-Fixer project using Python’s `ast` module and Hugging Face Transformers:
-
----
 
 # 🧠 AI-Powered Code Auto-Fixer
 
